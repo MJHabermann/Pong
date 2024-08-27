@@ -14,8 +14,9 @@ Updating the code will require a new build. If you do not already have unity ins
 4) Select the Projects in Unity Hub and click the Add button
 5) Select the file where the zip files were extracted to.
 6) This should open the Unity editor for this game of Pong
-7) In the top left corner select file -> Build & Run.
-8) Unity will automatically compile everything into the necessary files and create one 
+7) Go to the folder Assets/Scenes and double click "SampleScene.unity"
+8) In the top left corner select file -> Build & Run.
+9) Unity will automatically compile everything into the necessary files and create one 
 convenient Pong application file that you can click on whenever you would like to play. 
 Note Unity creates several other files and folders that must be in the same directory of 
 the Pong application for the game to run. 
