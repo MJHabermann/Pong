@@ -41,8 +41,10 @@ Learning unity in 1 week is incredibly difficult so, to create this project I fo
 
 Unity Tutorial #1: PONG (4 / 9) [Making a Scoreboard]
 https://www.youtube.com/watch?v=uE2RJAyVaHE&t
+
 PAUSE MENU in Unity
 https://www.youtube.com/watch?v=JivuXdrIHK0&t
+
 Unity For Total BEGINNERS - Make Pong in 10 Minutes!
 https://www.youtube.com/watch?v=7z0hKe9KaAc
 
