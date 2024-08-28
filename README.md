@@ -26,7 +26,7 @@ the Pong application for the game to run.
 1. Go to Unity’s Download Page or click this link https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe 
 a "UnityHubSetup.exe" file should be downloaded to your “Downloads” 
 folder.
-2. Open the installer and it should install both unity hub
+2. Open the installer and it will install unity hub
 3. Accept the license and terms and click Next.
 4. Select the components you would like to be installed with Unity and click “Next”. 
 Note: If you ever want to change the components, you can re-run the installer.
