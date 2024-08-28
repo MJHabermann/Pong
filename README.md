@@ -7,7 +7,7 @@
 - Play against a friend or yourself by hitting the ball past the other players paddle
 
 # Compiling the Code:
-Updating the code will require a new build. If you do not already have unity installed see the instructions below. The Unity version used is 2022.3.42f1 I cannot gurantee that it will work for past or present versions
+Updating the code will require a new build. If you do not already have unity installed see the instructions below. The Unity version used is 2022.3.42f1 I cannot gurantee that it will work for previous or future versions
 1) Download the .zip file or pull the repository from GitHub.
 2) Extract the contents into a new file.
 3) Open Unity now or download it at https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe 
@@ -24,8 +24,8 @@ the Pong application for the game to run.
 
 # Installing Unity:
 1. Go to Unity’s Download Page or click this link https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe 
-A UnityDownloadAssistant-x.x.exe file should be downloaded to your “Downloads” 
-folder (UnityHubSetup.exe).
+a "UnityHubSetup.exe" file should be downloaded to your “Downloads” 
+folder.
 2. Open the installer and it should install both unity hub
 3. Accept the license and terms and click Next.
 4. Select the components you would like to be installed with Unity and click “Next”. 
